@@ -1,4 +1,4 @@
-import EmployeeCard from './EmployeeCard';
+import EmployeeCard from "./EmployeeCard";
 
 function EmployeeList({ employees, deleteEmployee }) {
     if (employees.length === 0) {
